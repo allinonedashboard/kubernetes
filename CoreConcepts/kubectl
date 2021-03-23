@@ -1,0 +1,5 @@
+#kubectl run hello-minikube : to create the deployment on the cluster
+
+#kubectl cluster-info : To get the cluster-information
+
+#kubectl get nodes :  To get the list of nodes 
